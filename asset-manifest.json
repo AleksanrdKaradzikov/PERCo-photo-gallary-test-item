@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PERCo-photo-gallary-test-item/static/css/main.d2d42a77.chunk.css",
+    "main.js": "/PERCo-photo-gallary-test-item/static/js/main.4af28d4c.chunk.js",
+    "main.js.map": "/PERCo-photo-gallary-test-item/static/js/main.4af28d4c.chunk.js.map",
+    "runtime-main.js": "/PERCo-photo-gallary-test-item/static/js/runtime-main.1835c48e.js",
+    "runtime-main.js.map": "/PERCo-photo-gallary-test-item/static/js/runtime-main.1835c48e.js.map",
+    "static/css/2.ba7672f6.chunk.css": "/PERCo-photo-gallary-test-item/static/css/2.ba7672f6.chunk.css",
+    "static/js/2.d64da8dc.chunk.js": "/PERCo-photo-gallary-test-item/static/js/2.d64da8dc.chunk.js",
+    "static/js/2.d64da8dc.chunk.js.map": "/PERCo-photo-gallary-test-item/static/js/2.d64da8dc.chunk.js.map",
+    "index.html": "/PERCo-photo-gallary-test-item/index.html",
+    "precache-manifest.1ab63346b431663ba8811b78b1afa233.js": "/PERCo-photo-gallary-test-item/precache-manifest.1ab63346b431663ba8811b78b1afa233.js",
+    "service-worker.js": "/PERCo-photo-gallary-test-item/service-worker.js",
+    "static/css/2.ba7672f6.chunk.css.map": "/PERCo-photo-gallary-test-item/static/css/2.ba7672f6.chunk.css.map",
+    "static/css/main.d2d42a77.chunk.css.map": "/PERCo-photo-gallary-test-item/static/css/main.d2d42a77.chunk.css.map",
+    "static/js/2.d64da8dc.chunk.js.LICENSE.txt": "/PERCo-photo-gallary-test-item/static/js/2.d64da8dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1835c48e.js",
+    "static/css/2.ba7672f6.chunk.css",
+    "static/js/2.d64da8dc.chunk.js",
+    "static/css/main.d2d42a77.chunk.css",
+    "static/js/main.4af28d4c.chunk.js"
+  ]
+}
